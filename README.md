@@ -24,7 +24,7 @@ This analysis aims to:
 
 ```
 
-Uber_rides
+Rides_Analysis
 │-- Analysis.ipynb
 │-- UberDataset.xlsx
 │-- README.md
